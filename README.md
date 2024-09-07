@@ -13,7 +13,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk2ZmhldXFmdDBuY2s4dnE3NG5oYnJjYW92aDFhc3V5eHMzNTUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ezW9kkcfsYo5J5rL3H/giphy-downsized-large.gif" width="600px" height="600px"/>
-<h1>
-  About me
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px/>
-    </h1>
+    
+## :man_technologist: About Me : 
+<div align="left">
+<p>:telescope: I'm a beginner programmer, now study at Crimean Enjeenering Pedagojical University..</p>
+<p>:seedling: Learning html/css.</p>
+<p>:zap: I think I will become the best in my specialty and I will make my efforts to do so.</p>
+</div>
