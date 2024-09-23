@@ -17,6 +17,6 @@
 ## :man_technologist: About Me : 
 <div align="left">
 <p>:telescope: I'm a beginner programmer, now study at Crimean Enjeenering Pedagojical University..</p>
-<p>:seedling: Learning html/css.</p>
+<p>:seedling: Learning python/C++/html/css/JS.</p>
 <p>:zap: I think I will become the best in my specialty and I will make my efforts to do so.</p>
 </div>
