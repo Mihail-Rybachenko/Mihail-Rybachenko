@@ -19,7 +19,7 @@
 <p>:telescope: I'm a beginner programmer, now study at Crimean Enjeenering Pedagojical University..</p>
 <p>:zap: I think I will become the best in my specialty and I will make my efforts to do so.</p>
 </div>
-<div align ="left">
+
   
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,9 +29,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title = "Python" alt="Python" width = "40" height = "40"/>&nbsp;
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-</div>
 
+
+  
 ### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mihail-Rybachenko&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
