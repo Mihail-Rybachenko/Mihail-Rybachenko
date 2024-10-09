@@ -15,7 +15,7 @@
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk2ZmhldXFmdDBuY2s4dnE3NG5oYnJjYW92aDFhc3V5eHMzNTUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ezW9kkcfsYo5J5rL3H/giphy-downsized-large.gif" width="600px" height="600px"/>
     
 ## :man_technologist: About Me : 
-<div align="left">
+<div align="center">
 <p>:telescope: I'm a beginner programmer, now study at Crimean Enjeenering Pedagojical University..</p>
 <p>:zap: I think I will become the best in my specialty and I will make my efforts to do so.</p>
 </div>
