@@ -29,16 +29,15 @@
 ### :fire: My Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mihail-Rybachenko&theme=dark&hide_border=false)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihail-Rybachenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div align="center">
+<div align="left">
   
 ### My contacts:
 
-<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwamdyZ2ZvNTJlcjNyem5mOHJ6ZnEzdms0cWIzbWZhamx2OGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif width="300"/>
+<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwamdyZ2ZvNTJlcjNyem5mOHJ6ZnEzdms0cWIzbWZhamx2OGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif width="250"/>
+</div>
 <div id="badges">
   <a href="https://t.me/Mihail5830">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=TELEGRAM&logoColor=White" alt="Telegram Badge"/>
