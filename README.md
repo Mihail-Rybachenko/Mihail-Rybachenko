@@ -36,7 +36,7 @@
   
   ### My contacts:
 
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwamdyZ2ZvNTJlcjNyem5mOHJ6ZnEzdms0cWIzbWZhamx2OGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3gwamdyZ2ZvNTJlcjNyem5mOHJ6ZnEzdms0cWIzbWZhamx2OGY5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" width="230"/>
 
   <div id="badges" style="margin-top: 10px;">
     <a href="https://t.me/Mihail5830">
