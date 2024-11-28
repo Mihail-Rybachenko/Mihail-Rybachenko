@@ -4,7 +4,7 @@
   hey there i am Mihail
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk2ZmhldXFmdDBuY2s4dnE3NG5oYnJjYW92aDFhc3V5eHMzNTUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ezW9kkcfsYo5J5rL3H/giphy-downsized-large.gif" width="500px" height="500px"/>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk2ZmhldXFmdDBuY2s4dnE3NG5oYnJjYW92aDFhc3V5eHMzNTUyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ezW9kkcfsYo5J5rL3H/giphy-downsized-large.gif" width="450px" height="500px"/>
     </div>
     
 ## :man_technologist: About Me : 
@@ -47,3 +47,4 @@
     </a>
   </div>
 </div>
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
