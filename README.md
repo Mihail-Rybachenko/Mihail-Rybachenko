@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title = "Python" alt="Python" width = "40" height = "40"/>&nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 100px; height: auto;" alt="C++">
-  <img src = "https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" title = "Python" alt="Python" width = "160" height = "40"/>&nbsp;
+  <img src = "https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" title = "Python" alt="Python" width = "150" height = "39"/>&nbsp;
 
 
   
@@ -47,4 +47,4 @@
     </a>
   </div>
 </div>
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
